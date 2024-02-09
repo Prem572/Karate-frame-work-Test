@@ -1,0 +1,20 @@
+{
+    "jobId": 1,
+    "jobTitle": "Senior Software Engg - QA",
+    "jobDescription": "To Test andriod application",
+    "experience": [
+        "Google",
+        "Apple",
+        "Mobile Iron"
+    ],
+    "project": [
+        {
+            "projectName": "Movie App",
+            "technology": [
+                "Kotlin",
+                "SQL Lite",
+                "Gradle"
+            ]
+        }
+    ]
+}

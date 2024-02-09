@@ -6,7 +6,7 @@ import  com.intuit.karate.junit5.Karate;
 public class KarateRunner {
     @Karate.Test
     public Karate runGetRequests(){
-        return Karate.run("classpath:com/org/karate/features/getRequest.feature")
-                .tags("@Test1");
+        return Karate.run("classpath:com/org/karate/features/postRequestAdvance.feature")
+        .tags("@ReadPostCheckEmbeded");
     }
 }

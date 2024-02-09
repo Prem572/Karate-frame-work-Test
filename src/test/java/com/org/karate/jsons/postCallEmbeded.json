@@ -1,0 +1,20 @@
+{
+    "jobId": "#(jobId)",
+    "jobTitle": "#(jobTitle)",
+    "jobDescription": "To Test andriod application",
+    "experience": [
+        "Google",
+        "Apple",
+        "Mobile Iron"
+    ],
+    "project": [
+        {
+            "projectName": "Movie App",
+            "technology": [
+                "Kotlin",
+                "SQL Lite",
+                "Gradle"
+            ]
+        }
+    ]
+}
