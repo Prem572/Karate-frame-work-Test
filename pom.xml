@@ -84,6 +84,9 @@
       <version>3.2.5</version>
       <configuration>
         <rerunFailingTestsCount>2</rerunFailingTestsCount>
+        <includes>
+          <include>**/KarateRunner.java</include>
+        </includes>
       </configuration>
     </plugin>
   </plugins>
